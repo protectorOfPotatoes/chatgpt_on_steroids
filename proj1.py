@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "GET YOUR OWN F**KING API KEY DUMF**K"
 def respond(text):
     response = openai.Completion.create(
     model="text-davinci-003",
